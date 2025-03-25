@@ -34,6 +34,10 @@ I'm a **Full Stack Software Development Engineer in Test (SDET)** based in Chica
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white)
 ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat&logo=groovy&logoColor=white)
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)](https://www.selenium.dev)
+[![Serenity](https://img.shields.io/badge/Serenity-4C4C4C?style=flat&logo=&logoColor=white)](https://serenity-bdd.info)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-us/services/cognitive-services/)
 
 ---
 
