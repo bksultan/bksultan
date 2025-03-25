@@ -39,7 +39,5 @@ I'm a **Full Stack Software Development Engineer in Test (SDET)** based in Chica
 
 ## 🔗 Let's Connect
 
-## 🔗 Let's Connect
-
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="width:20px; vertical-align:middle; margin-right:5px;"> [LinkedIn](https://www.linkedin.com/in/bksultan-ismatov)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mail/mail-original.svg" alt="Email" style="width:20px; vertical-align:middle; margin-right:5px;"> [Email](mailto:bksultan.ismatov@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/bksultan-ismatov)
+- [Email](mailto:bksultan.ismatov@gmail.com)
