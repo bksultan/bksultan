@@ -2,7 +2,7 @@
 
 I'm a **Full Stack Software Development Engineer in Test (SDET)** based in Chicago, IL.
 
-![Profile Banner](https://via.placeholder.com/1200x300?text=Welcome+to+Beksultan's+Profile)
+![Profile Banner](https://via.placeholder.com/1200x300?text=Welcome+to+Beksultan%27s+Profile)
 
 ---
 
