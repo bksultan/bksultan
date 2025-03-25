@@ -11,7 +11,7 @@ I'm a **Full Stack Software Development Engineer in Test (SDET)** based in Chica
 - 🔍 Passionate about **test automation, performance optimization, and CI/CD pipelines**.
 - 💻 Skilled in Java, Groovy, and Bash scripting, plus frameworks like **Selenium, Katalon Studio, Playwright, and JMeter**.
 - 🛠️ Building robust automation frameworks and collaborating on advanced projects like **Azure AI Custom Vision**.
-- 🌐 Constantly exploring Full-Stack Development to broaden my expertise.
+- 🌐 Constantly expanding my expertise into Full-Stack Development.
 
 ---
 
@@ -20,18 +20,22 @@ I'm a **Full Stack Software Development Engineer in Test (SDET)** based in Chica
 - **Test Automation:** Designing and executing robust test plans ensuring near-perfect releases.
 - **Performance Optimization:** Leveraging JMeter to boost system performance by 20%.
 - **CI/CD Pipelines:** Crafting efficient pipelines with Jenkins, Docker, and Kubernetes.
-- **Collaboration:** Working hand-in-hand with developers to drive innovative solutions.
+- **Collaboration:** Partnering with developers to drive innovative, quality solutions.
 
 ---
 
 ## 🛠️ Skills & Tools
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![Katalon](https://img.shields.io/badge/Katalon-ED1C24?style=flat&logo=katalon&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-5A2A9A?style=flat&logo=playwright&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-1C8D73?style=flat&logo=cucumber&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/OracleSQL-F80000?style=flat&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat&logo=groovy&logoColor=white)
 
 ---
 
@@ -43,9 +47,6 @@ I'm a **Full Stack Software Development Engineer in Test (SDET)** based in Chica
 
 ## 🔗 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/bksultan-ismatov)\
-- [Email](mailto:bksultan.ismatov@gmail.com)
-
----
-
-*No excuses, just results. Let's build something amazing together!*
+- [LinkedIn](https://www.linkedin.com/in/bksultan-ismatov)
+- [GitHub](https://github.com/bksultan)
+- [Email](mailto:bksultan.ismatov@gmail.com
